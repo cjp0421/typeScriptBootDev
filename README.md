@@ -1,1 +1,0 @@
-# typeScriptBootDev
